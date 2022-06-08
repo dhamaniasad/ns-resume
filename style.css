@@ -51,3 +51,9 @@ body {
     text-transform: uppercase;
     padding-bottom: 0.5rem;
 }
+
+.description {
+    font-size: 0.75rem;
+    text-align: center;
+    padding: 1rem;
+}
