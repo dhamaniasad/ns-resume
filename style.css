@@ -1,0 +1,18 @@
+.main-content {
+    display: grid;
+    min-height: 1000px;
+    grid-template-columns: 300px 700px;
+}
+
+.left-section {
+    background-color: #333;
+}
+
+.right-section {
+    width: 90%;
+}
+
+
+.left-content {
+    
+}
