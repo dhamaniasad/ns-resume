@@ -14,5 +14,40 @@
 
 
 .left-content {
-    
+    padding: 1rem;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.profile-details {
+    color: white;
+}
+
+.profile-image {
+    width: 60%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 5px white solid;
+    border-radius: 30%;
+}
+
+.name {
+    font-size: 1.2rem;
+    font-weight: 700;
+    padding: 0.8rem;
+    letter-spacing: 0.02px;
+    text-align: center;
+    text-transform: uppercase;
+    /* color: white; */
+}
+
+.designation {
+    font-size: 1rem;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 0.5rem;
 }
